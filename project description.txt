@@ -1,1 +1,0 @@
-this project  is used for handicapped people that we sent the commands through bluetooth module and the bluetooth module can listen the command and do the operations
